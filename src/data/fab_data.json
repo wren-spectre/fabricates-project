@@ -1,0 +1,70 @@
+[
+  {
+    "id": "eq-001",
+    "name": "EQP-01",
+    "process": "PROCESS1",
+    "position": [
+      -5,
+      1,
+      -5
+    ],
+    "size": [
+      2,
+      2,
+      2
+    ],
+    "color": "#ffffff",
+    "description": "(Explanation of equipment)"
+  },
+  {
+    "id": "eq-002",
+    "name": "EQP-02",
+    "process": "PROCESS2",
+    "position": [
+      -5,
+      1,
+      0
+    ],
+    "size": [
+      2,
+      2,
+      2
+    ],
+    "color": "#ffffff",
+    "description": "(Explanation of equipment)"
+  },
+  {
+    "id": "eq-003",
+    "name": "EQP-03",
+    "process": "PROCESS1",
+    "position": [
+      5,
+      1.5,
+      -5
+    ],
+    "size": [
+      3,
+      3,
+      3
+    ],
+    "color": "#eeeeee",
+    "description": "(Explanation of equipment)"
+  },
+  {
+    "id": "eq-004",
+    "name": "EQP-04",
+    "process": "PROCESS2",
+    "position": [
+      5,
+      1,
+      5
+    ],
+    "size": [
+      2,
+      2,
+      4
+    ],
+    "color": "#dddddd",
+    "description": "(Explanation of equipment)"
+  }
+]
